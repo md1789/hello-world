@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone, 
+
+I'm interested in technology and languages (coding languages and regular languages), I'm a musician, and I'm an artist. 
